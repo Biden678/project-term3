@@ -1,0 +1,1198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\vehicleinsurance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\vehicleinsurance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\Aptech\\Sem3\\DemoProject\\Signup\\Signup\\Migrations\\20231125094721_NewUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\vehicleerrorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\vehicleerrorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\forgetpasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\forgetpasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231222075404_epro3duc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231222075404_epro3duc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\hashpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\hashpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\vehicleerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\vehicleerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\usercreadential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\usercreadential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\customstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\customstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231222075334_epro\u00EAduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231222075334_epro\u00EAduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\forbiddenword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\forbiddenword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\claimlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\claimlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\claimdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\claimdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\claimlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\claimlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\claimdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\claimdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\changeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\changeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231221044631_phucepro3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231221044631_phucepro3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\forbiddenwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\forbiddenwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\setpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\setpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\modelforgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\modelforgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\forgetpassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\forgetpassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\type_insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\type_insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\maintenancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\maintenancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231217020526_descriptionepro3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231217020526_descriptionepro3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\type_insurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\type_insurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231216162503_createatuserepro3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231216162503_createatuserepro3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\orderdtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\orderdtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231215034334_tbepro3p21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231215034334_tbepro3p21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\maintenancestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\maintenancestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231211044316_tbepro3p19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231211044316_tbepro3p19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231211142631_tbepro3p20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231211142631_tbepro3p20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231211043728_tbepro3p17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231211043728_tbepro3p17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231207024719_tbepro3p11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231207024719_tbepro3p11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231207023302_tbepro3p10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231207023302_tbepro3p10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231207063821_tbepro3p15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231207063821_tbepro3p15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231208044514_tbepro3p16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231208044514_tbepro3p16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231207060756_tbepro3p14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231207060756_tbepro3p14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231207025556_tbepro3p12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231207025556_tbepro3p12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231207040817_tbepro3p13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231207040817_tbepro3p13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231206050012_tbepro3p9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231206050012_tbepro3p9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231204162452_tbepro3p7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231204162452_tbepro3p7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231205124335_epro3p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231205124335_epro3p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231205045217_tbepro3p8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231205045217_tbepro3p8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231204135322_tbepro3p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231204135322_tbepro3p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231204042738_epro3p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231204042738_epro3p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231204042225_epro3p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231204042225_epro3p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231201154611_epro3p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231201154611_epro3p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231129155316_epro3p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231129155316_epro3p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231125094828_newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231125094828_newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\20231125085848_usertbproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\20231125085848_usertbproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|c:\\users\\admin\\desktop\\project-term3\\source_code\\backend\\vehicleinsurance\\signup\\migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2C896-C05B-4E8B-8A94-8AE3ECC2E190}|Signup\\VehicleInsurance.csproj|solutionrelative:signup\\migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleInsurance.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\VehicleInsurance.csproj",
+              "RelativeDocumentMoniker": "Signup\\VehicleInsurance.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\VehicleInsurance.csproj",
+              "RelativeToolTip": "Signup\\VehicleInsurance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T08:46:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Product.cs",
+              "RelativeToolTip": "Signup\\Models\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Services\\TokenServices.cs",
+              "RelativeDocumentMoniker": "Signup\\Services\\TokenServices.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Services\\TokenServices.cs",
+              "RelativeToolTip": "Signup\\Services\\TokenServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Program.cs",
+              "RelativeDocumentMoniker": "Signup\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Program.cs",
+              "RelativeToolTip": "Signup\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAvwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAwwEABAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwHUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\OrderDTO.cs",
+              "RelativeToolTip": "Signup\\Models\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Order.cs",
+              "RelativeToolTip": "Signup\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\VehicleErrorController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\VehicleErrorController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\VehicleErrorController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\VehicleErrorController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvz0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Expense.cs",
+              "RelativeToolTip": "Signup\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\appsettings.json",
+              "RelativeDocumentMoniker": "Signup\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\appsettings.json",
+              "RelativeToolTip": "Signup\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T06:16:33.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForgetPassController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ForgetPassController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\ForgetPassController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ForgetPassController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\ForgetPassController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwv0cAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20231222075404_epro3duc.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231222075404_epro3duc.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231222075404_epro3duc.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231222075404_epro3duc.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231222075404_epro3duc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HashPass.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\HashPass.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\HashPass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\HashPass.cs",
+              "RelativeToolTip": "Signup\\Models\\HashPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Users.cs",
+              "RelativeToolTip": "Signup\\Models\\Users.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VehicleError.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\VehicleError.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\VehicleError.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\VehicleError.cs",
+              "RelativeToolTip": "Signup\\Models\\VehicleError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserCreadential.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\UserCreadential.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\UserCreadential.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\UserCreadential.cs",
+              "RelativeToolTip": "Signup\\Models\\UserCreadential.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomStatusCode.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\CustomStatusCode.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\CustomStatusCode.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\CustomStatusCode.cs",
+              "RelativeToolTip": "Signup\\Models\\CustomStatusCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20231222075334_epro\u00EAduc.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231222075334_epro\u00EAduc.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231222075334_epro\u00EAduc.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231222075334_epro\u00EAduc.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231222075334_epro\u00EAduc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ForbiddenWord.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ForbiddenWord.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\ForbiddenWord.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ForbiddenWord.cs",
+              "RelativeToolTip": "Signup\\Models\\ForbiddenWord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClaimListController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ClaimListController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\ClaimListController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ClaimListController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\ClaimListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClaimDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ClaimDetailController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\ClaimDetailController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ClaimDetailController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\ClaimDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClaimList.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ClaimList.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\ClaimList.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ClaimList.cs",
+              "RelativeToolTip": "Signup\\Models\\ClaimList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Contact.cs",
+              "RelativeToolTip": "Signup\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClaimDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ClaimDetail.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\ClaimDetail.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ClaimDetail.cs",
+              "RelativeToolTip": "Signup\\Models\\ClaimDetail.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChangePasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ChangePasswordModel.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\ChangePasswordModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ChangePasswordModel.cs",
+              "RelativeToolTip": "Signup\\Models\\ChangePasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "Signup\\Models\\DatabaseContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChangeInformation.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ChangeInformation.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\ChangeInformation.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ChangeInformation.cs",
+              "RelativeToolTip": "Signup\\Models\\ChangeInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20231221044631_phucepro3.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231221044631_phucepro3.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231221044631_phucepro3.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231221044631_phucepro3.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231221044631_phucepro3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ForbiddenWordController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ForbiddenWordController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\ForbiddenWordController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ForbiddenWordController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\ForbiddenWordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ForgetPass.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ForgetPass.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\ForgetPass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ForgetPass.cs",
+              "RelativeToolTip": "Signup\\Models\\ForgetPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SetPass.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\SetPass.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\SetPass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\SetPass.cs",
+              "RelativeToolTip": "Signup\\Models\\SetPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ModelForgetPass.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ModelForgetPass.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\ModelForgetPass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ModelForgetPass.cs",
+              "RelativeToolTip": "Signup\\Models\\ModelForgetPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ForgetPassDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ForgetPassDTO.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\ForgetPassDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\ForgetPassDTO.cs",
+              "RelativeToolTip": "Signup\\Models\\ForgetPassDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Type_Insurance.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Type_Insurance.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\Type_Insurance.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Type_Insurance.cs",
+              "RelativeToolTip": "Signup\\Models\\Type_Insurance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\Area.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Area.cs",
+              "RelativeToolTip": "Signup\\Models\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MaintenanceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\MaintenanceStatus.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\MaintenanceStatus.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\MaintenanceStatus.cs",
+              "RelativeToolTip": "Signup\\Models\\MaintenanceStatus.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20231217020526_descriptionepro3.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231217020526_descriptionepro3.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231217020526_descriptionepro3.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231217020526_descriptionepro3.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231217020526_descriptionepro3.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Type_InsuranceController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\Type_InsuranceController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\Type_InsuranceController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\Type_InsuranceController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\Type_InsuranceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20231216162503_createatuserepro3.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231216162503_createatuserepro3.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231216162503_createatuserepro3.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231216162503_createatuserepro3.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231216162503_createatuserepro3.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderDTOController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\OrderDTOController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\OrderDTOController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\OrderDTOController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\OrderDTOController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AreaController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\AreaController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\AreaController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\AreaController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\AreaController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20231215034334_tbepro3p21.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231215034334_tbepro3p21.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231215034334_tbepro3p21.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231215034334_tbepro3p21.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231215034334_tbepro3p21.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MaintenanceStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\MaintenanceStatusController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\MaintenanceStatusController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\MaintenanceStatusController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\MaintenanceStatusController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwGUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20231211044316_tbepro3p19.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231211044316_tbepro3p19.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231211044316_tbepro3p19.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231211044316_tbepro3p19.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231211044316_tbepro3p19.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Signup\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Models\\Address.cs",
+              "RelativeToolTip": "Signup\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20231211142631_tbepro3p20.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231211142631_tbepro3p20.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231211142631_tbepro3p20.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231211142631_tbepro3p20.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231211142631_tbepro3p20.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20231211043728_tbepro3p17.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231211043728_tbepro3p17.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231211043728_tbepro3p17.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231211043728_tbepro3p17.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231211043728_tbepro3p17.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "Signup\\Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "Signup\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20231207024719_tbepro3p11.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207024719_tbepro3p11.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231207024719_tbepro3p11.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207024719_tbepro3p11.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231207024719_tbepro3p11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20231207023302_tbepro3p10.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207023302_tbepro3p10.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231207023302_tbepro3p10.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207023302_tbepro3p10.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231207023302_tbepro3p10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20231207063821_tbepro3p15.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207063821_tbepro3p15.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231207063821_tbepro3p15.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207063821_tbepro3p15.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231207063821_tbepro3p15.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20231208044514_tbepro3p16.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231208044514_tbepro3p16.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231208044514_tbepro3p16.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231208044514_tbepro3p16.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231208044514_tbepro3p16.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20231207060756_tbepro3p14.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207060756_tbepro3p14.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231207060756_tbepro3p14.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207060756_tbepro3p14.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231207060756_tbepro3p14.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20231207025556_tbepro3p12.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207025556_tbepro3p12.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231207025556_tbepro3p12.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207025556_tbepro3p12.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231207025556_tbepro3p12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20231207040817_tbepro3p13.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207040817_tbepro3p13.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231207040817_tbepro3p13.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231207040817_tbepro3p13.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231207040817_tbepro3p13.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20231206050012_tbepro3p9.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231206050012_tbepro3p9.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231206050012_tbepro3p9.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231206050012_tbepro3p9.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231206050012_tbepro3p9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20231204162452_tbepro3p7.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231204162452_tbepro3p7.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231204162452_tbepro3p7.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231204162452_tbepro3p7.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231204162452_tbepro3p7.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20231205124335_epro3p.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231205124335_epro3p.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231205124335_epro3p.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231205124335_epro3p.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231205124335_epro3p.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20231205045217_tbepro3p8.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231205045217_tbepro3p8.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231205045217_tbepro3p8.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231205045217_tbepro3p8.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231205045217_tbepro3p8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20231204135322_tbepro3p6.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231204135322_tbepro3p6.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231204135322_tbepro3p6.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231204135322_tbepro3p6.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231204135322_tbepro3p6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20231204042738_epro3p5.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231204042738_epro3p5.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231204042738_epro3p5.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231204042738_epro3p5.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231204042738_epro3p5.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20231204042225_epro3p4.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231204042225_epro3p4.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231204042225_epro3p4.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231204042225_epro3p4.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231204042225_epro3p4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20231201154611_epro3p3.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231201154611_epro3p3.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231201154611_epro3p3.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231201154611_epro3p3.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231201154611_epro3p3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20231129155316_epro3p1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231129155316_epro3p1.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231129155316_epro3p1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231129155316_epro3p1.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231129155316_epro3p1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20231125094828_NewUsers.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231125094828_NewUsers.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231125094828_NewUsers.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231125094828_NewUsers.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231125094828_NewUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20231125085848_Usertbproject.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231125085848_Usertbproject.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\20231125085848_Usertbproject.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\20231125085848_Usertbproject.cs",
+              "RelativeToolTip": "Signup\\Migrations\\20231125085848_Usertbproject.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Signup\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\project-term3\\source_code\\BackEnd\\VehicleInsurance\\Signup\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "Signup\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:16:33.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20231125094721_NewUsers.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Aptech\\Sem3\\DemoProject\\Signup\\Signup\\Migrations\\20231125094721_NewUsers.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\Aptech\\Sem3\\DemoProject\\Signup\\Signup\\Migrations\\20231125094721_NewUsers.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Aptech\\Sem3\\DemoProject\\Signup\\Signup\\Migrations\\20231125094721_NewUsers.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\Aptech\\Sem3\\DemoProject\\Signup\\Signup\\Migrations\\20231125094721_NewUsers.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T09:47:22.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
